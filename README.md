@@ -1,1 +1,1 @@
-Jednostavana stranica, napravljena koristeci bootstrap, pomocu bootstrapovog koda sa promijenjenim css-om.
+Simple web page desinged and coded using Bootstrap framework. 
